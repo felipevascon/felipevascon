@@ -14,6 +14,7 @@
 <ul dir="auto">
 <img align="center" alt="Felipe-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-C" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="max-width: 100%;">
+<img align="center" alt="Felipe-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-Kotlin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-AndroidStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-Keras" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" style="max-width: 100%;">
