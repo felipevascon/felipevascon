@@ -17,10 +17,12 @@
 <img align="center" alt="Felipe-C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-Kotlin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-AndroidStudio" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="max-width: 100%;">
+<img align="center" alt="Felipe-.NETMAUI" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-Keras" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-TensorFlow" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-NumPy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style="max-width: 100%;">
 <img align="center" alt="Felipe-Pandas" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="max-width: 100%;">
+         
 
 <!--
 **felipevascon/felipevascon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
