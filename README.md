@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there%2C+I'm+Felipe+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there%2C+I'm+Felipe+!)](https://git.io/typing-svg)
 
 <ul dir="auto">
 <li>👨‍🎓 Studying Eletronic and Computer Engineering at Federal University of Rio de Janeiro;</li>
@@ -12,6 +12,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="display:inline-block; margin:5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" style="display:inline-block; margin:5px;" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" style="display:inline-block; margin:5px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" style="display:inline-block; margin:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="display:inline-block; margin:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" style="display:inline-block; margin:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="display:inline-block; margin:5px;">
